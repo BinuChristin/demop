@@ -1,7 +1,7 @@
 package com.faith.bean;
 
 public class Preofessor {
-private int num;
+private int num1;
 private String age;
 private String num;
 }
